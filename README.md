@@ -51,3 +51,5 @@ python -m tgscraper export --db ./data/tg.db --channel cloudflare_status --outpu
 ## License
 
 MIT
+
+<!-- generated: 2026-09-08 -->
